@@ -1,6 +1,6 @@
 # serializeObject
 it is not just another serializeObject plugin, it extend simple serializeObject to catch array of inputs
-```
+```html
 <form>
 <input type="text" name="INP_T" value="TEXT">
 <input type="checkbox" name="INP_CH[A]" value="1">
